@@ -20,6 +20,15 @@ I am also expanding my horizons by learning Django and DSA as well :yum:
 
 Hit me up if you have some interesting projects or sparkling ideas :heart_eyes:
 
+<br><br>
+
+[![Topguns837's GitHub stats](https://github-readme-stats.vercel.app/api?username=topguns837&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topguns837&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br>
+
+<!--START_SECTION:activity-->
+
 
 
 
