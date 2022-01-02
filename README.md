@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a Computer Science student looking to deepdive into the fields of ML/AI and Data Science.
+I am also expanding my horizons by learning Django and DSA as well :yum:
+
+Hit me up if you have some interesting projects or sparkling ideas :heart_eyes:
+
+
 
 
