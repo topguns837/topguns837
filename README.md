@@ -30,7 +30,7 @@ Hit me up if you have some interesting projects or sparkling ideas :heart_eyes:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topguns837&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 
-### :zap: Recent Activity
+<!--### :zap: Recent Activity-->
 
 <!--START_SECTION:activity-->
 
