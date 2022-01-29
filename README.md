@@ -2,22 +2,14 @@
 
 ![Banner](https://github.com/topguns837/Banners/blob/main/Github.png)
 
-## Hey there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+This is the place where I opensource stuff and break things :rofl:
 
-<!--
-**topguns837/topguns837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 &nbsp;I’m currently learning Python,Machine Learning,Data Science and Deep Learning
+- 💬 &nbsp;Ask me about anything related to Python/Machine Learning/Django or Flask
+- 📫 &nbsp;How to reach me: [@ArjunKHaridas1](https://twitter.com/ArjunKHaridas1)(Twitter) or [@ArjunKHaridas](https://www.linkedin.com/in/arjun-k-haridas-9a5844207/)(Linkedin) 
+- ⚡ &nbsp;Fun fact: I am a novice chess player and an hip-hop addict
 
 I am a Computer Science student looking to deepdive into the fields of ML/AI and Data Science.
 I am also expanding my horizons by learning Django and DSA as well :yum:
