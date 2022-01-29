@@ -11,8 +11,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 &nbsp;How to reach me: [@ArjunKHaridas1](https://twitter.com/ArjunKHaridas1)(Twitter) or [@ArjunKHaridas](https://www.linkedin.com/in/arjun-k-haridas-9a5844207/)(Linkedin) 
 - ⚡ &nbsp;Fun fact: I am a novice chess player and an hip-hop addict
 
-I am a Computer Science student looking to deepdive into the fields of ML/AI and Data Science.
-I am also expanding my horizons by learning Django and DSA as well :yum:
+
 
 Hit me up if you have some interesting projects or sparkling ideas :heart_eyes:
 
