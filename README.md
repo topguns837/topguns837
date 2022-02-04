@@ -6,9 +6,9 @@
 
 
 
-- 🌱 &nbsp;I’m currently learning Python,Machine Learning,Data Science and Deep Learning
+- 🌱 &nbsp;I’m currently learning Python, Machine Learning, Data Science and Deep Learning
 - 💬 &nbsp;Ask me about anything related to Python/Machine Learning/Django or Flask
-- 📫 &nbsp;How to reach me: [@ArjunKHaridas1](https://twitter.com/ArjunKHaridas1)(Twitter) or [@ArjunKHaridas](https://www.linkedin.com/in/arjun-k-haridas-9a5844207/)(Linkedin) 
+- 📫 &nbsp;How to reach me: [@ArjunKHaridas1](https://twitter.com/ArjunKHaridas1) (Twitter) or [@ArjunKHaridas](https://www.linkedin.com/in/arjun-k-haridas-9a5844207/) (Linkedin) 
 - ⚡ &nbsp;Fun fact: I am a novice chess player and an hip-hop addict
 
 
