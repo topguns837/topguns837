@@ -24,7 +24,7 @@ Hit me up if you have some interesting projects or sparkling ideas :heart_eyes:
 
 <br><br>
   
- ![](https://komarev.com/ghpvc/?username=topguns837&color=green)
+ <!--![](https://komarev.com/ghpvc/?username=topguns837&color=green) -->
 
 
 
